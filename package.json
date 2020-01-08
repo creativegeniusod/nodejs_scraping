@@ -1,0 +1,16 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "we are scrapping data from rental sites",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "puppeteer": "^1.19.0",
+    "puppeteer-extra": "^2.1.3"
+  }
+}
